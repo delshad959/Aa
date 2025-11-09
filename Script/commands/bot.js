@@ -140,7 +140,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "😏") || (event.body.toLowerCase() == "ex")) {
-     return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
+     return api.sendMessage("️উফ🥵কামান বেবি🫦💋কিস দিয়ে মুখ সোজা করে দিবো🫦 🥵", threadID);
    };
 
    if ((event.body.toLowerCase() == "cudi") || (event.body.toLowerCase() == "tor nanire xudi")) {
